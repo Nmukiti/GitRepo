@@ -1,2 +1,10 @@
 Hey, I am not ingesting data in this file. Bug is fixed.
 Master here! Let me also contribute to this amazing project.
+
+Hey, I am ingesting data in this file.
+Master here! Let me also contribute to this amazing project.
+
+
+Hehe! I am learning Git.
+I am fixing this bug.
+
